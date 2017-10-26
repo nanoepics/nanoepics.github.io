@@ -1,0 +1,15 @@
+/* CONTENT MANAGER */
+Sanli Faez
+
+						
+/* THANKS */
+UNO Developer & Designer: Josh Gerdes
+Twitter: @joshgerdes
+Site: http://joshgerdes.com
+Location: Minneapolis, MN, USA
+
+/* SITE */
+Initial launch: 2017/10/26
+Standards: HTML5, CSS3
+Components: Jekyll, Uno
+Software: Sublime Text, Photoshop

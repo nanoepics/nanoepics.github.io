@@ -1,1 +1,41 @@
-theme: jekyll-theme-architect
+# Site settings
+title: Sanli Faez
+description: 'Assistant Professor, Utrecht University'
+url: 'http://sanlifaez.github.io/'
+baseurl: ''
+# google_analytics: 'UA-XXXXXX-X'
+
+author:
+  name: 'Sanli Faez'
+  email: s.faez@uu.nl
+  twitter_username: Sanli
+  github_username:  sanlifaez
+  linkedin_username:  sanlifaez
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 8
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
