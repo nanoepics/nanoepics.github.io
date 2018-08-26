@@ -2,6 +2,8 @@
 layout: page
 title: nanoEPics member: Sanli Faez
 ---
+
+### Sanli Faez, Principal Investigator
 ![Sanli](../images/sanli_th.png)
 
 I am an assistant professor at the [Physics department](https://www.uu.nl/en/organisation/department-of-physics) of Utrecht University. I am also a member of [Utrecht Young Academy](https://www.uu.nl/en/research/utrecht-young-academy) and taskforce open-science.
