@@ -1,4 +1,4 @@
-Personal website of Sanli Faez
+Homepage of the nanoEPics group at Utrecht University.
 
 ### Copyright and license
 

@@ -1,7 +1,7 @@
 # Site settings
-title: Sanli Faez
-description: 'Assistant Professor, Utrecht University'
-url: 'http://sanlifaez.github.io/'
+title: nanoEPics
+description: 'Pushing Electrons, Detecting Photons'
+url: 'http://nanoepics.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 
@@ -9,7 +9,7 @@ author:
   name: 'Sanli Faez'
   email: s.faez@uu.nl
   twitter_username: Sanli
-  github_username:  sanlifaez
+  github_username:  nanoepics
   linkedin_username:  sanlifaez
 
 defaults:

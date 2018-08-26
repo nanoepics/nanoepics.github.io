@@ -1,6 +1,5 @@
 /* CONTENT MANAGER */
 Sanli Faez
-
 						
 /* THANKS */
 UNO Developer & Designer: Josh Gerdes
@@ -12,4 +11,4 @@ Location: Minneapolis, MN, USA
 Initial launch: 2017/10/26
 Standards: HTML5, CSS3
 Components: Jekyll, Uno
-Software: Sublime Text, Photoshop
+
