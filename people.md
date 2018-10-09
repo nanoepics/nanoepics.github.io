@@ -7,35 +7,41 @@ title: nanoEPics team members
 
 ![Aquiles](./images/aquiles_th.png)
 
-**Dr. Aquiles Carattino** [bio](./pages/aquiles_bio.md), [homepage]()</p>
+**Dr. Aquiles Carattino** [bio](./pages/aquiles_bio.md), [homepage]()
 
 ### PhD-students
 
-![Dashka](./images/dashka_th.png)
-
-Dashdeleg Baasanjav
-
-![Bohdan](./images/bohdan_th.png)
+![Bohdan](./images/profile.png)
 
 Bohdan Yeroshenko
 
-![Zhu](./images/zhu_th.png)
+![Zhu Zhang](./images/profile.jpg)
 
 Zhu Zhang
 
 ### Student members
-<img src="./images/speets_th.png" alt="Peter Speets" height="150" width="150"/>
+![Peter Speets](./images/profile.jpg)
 
-<p align="center">Peter Speets</p>
+Peter Speets
 
-<img src="./images/veenstra_th.png" alt="Allard Veenstra" height="150" width="150"/>
+![Kevin Namink](./images/profile.jpg)
 
-<p align="center">Allard Veenstra</p>
+Peter Speets
+
+![Milo Collaris](./images/profile.jpg)
+
+Allard Veenstra
+
+![Allard Veenstra](./images/profile.jpg)
+
+Allard Veenstra
+
+
 
 ### PI
-<img src="./images/sanli_th.png" alt="Sanli" height="150" width="150"/>
+![Sanli](./images/sanli_th.png)
 
-**Sanli Faez** [bio](./pages/sanli_bio.md)</p>
+**Sanli Faez** [bio](./pages/sanli_bio.md)
 
 
 ### Former members
