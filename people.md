@@ -11,30 +11,34 @@ title: nanoEPics team members
 
 ### PhD-students
 
-![Bohdan](./images/profile.png)
+![Bohdan](./images/profile_th.png)
 
-Bohdan Yeroshenko
+**Bohdan Yeroshenko**
 
-![Zhu Zhang](./images/profile.jpg)
+![Zhu Zhang](./images/profile_th.png)
 
-Zhu Zhang
+**Zhu Zhang**
 
 ### Student members
-![Peter Speets](./images/profile.jpg)
+![Peter Speets](./images/profile_th.png)
 
-Peter Speets
+**Peter Speets**
 
-![Kevin Namink](./images/profile.jpg)
+![Kevin Namink](./images/profile_th.png)
 
-Peter Speets
+**Kevin Namink**
 
-![Milo Collaris](./images/profile.jpg)
+![Qianjing Tang](./images/profile_th.png)
 
-Allard Veenstra
+**Qianjing Tang**
 
-![Allard Veenstra](./images/profile.jpg)
+![Milo Collaris](./images/profile_th.png)
 
-Allard Veenstra
+**Milo Collaris**
+
+![Allard Veenstra](./images/profile_th.png)
+
+**Allard Veenstra**
 
 
 
