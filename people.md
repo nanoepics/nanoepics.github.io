@@ -11,16 +11,16 @@ title: nanoEPics team members
 
 ### PhD-students
 
-![Bohdan](./images/profile_th.png)
+![Bohdan](./images/bohdan_th.jpg)
 
 **Bohdan Yeroshenko**
 
-![Zhu Zhang](./images/profile_th.png)
+![Zhu Zhang](./images/zhu_th.png)
 
 **Zhu Zhang**
 
 ### Student members
-![Peter Speets](./images/profile_th.png)
+![Peter Speets](./images/peter_th.png)
 
 **Peter Speets**
 
@@ -28,7 +28,7 @@ title: nanoEPics team members
 
 **Kevin Namink**
 
-![Qianjing Tang](./images/profile_th.png)
+![Qianjing Tang](./images/tang_th.png)
 
 **Qianjing Tang**
 
