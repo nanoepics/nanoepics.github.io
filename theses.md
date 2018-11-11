@@ -3,7 +3,10 @@ layout: page
 title: Theses
 ---
 
-If you are interested in doing a project with us, please contact [Sanli Faez]().
+If you are interested in choosing a project with us, please contact Sanli (s.faez [AT] uu [DOT] nl).
+
+### Master project
+* _Developing fluorescence microscopy setup to study microscopic solute transport in saturated and unsaturated porous media using microfluidics_ Qianjing Tang (joint-project with the Faculty of Geosciences)
 
 ### Bachelor projects
 * _Crystallizing ultrasonically levitated colloidal droplets_, Milo Collaris
