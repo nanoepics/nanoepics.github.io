@@ -17,11 +17,11 @@ title: nanoEPics team members
 ### Student members
 ![Peter Speets](./images/peter_th.png)  **Peter Speets**
 
-![Kevin Namink](./images/profile_th.png)  **Kevin Namink**
+![Kevin Namink](./images/kevin_th.png)  **Kevin Namink**
 
-![Milo Collaris](./images/profile_th.png)  **Milo Collaris**
+![Wouter Wassing](./images/profile_th.png)  **Wouter Wassing**
 
-![Allard Veenstra](./images/profile_th.png)  **Allard Veenstra**
+![Stijn Helsloot](./images/profile_th.png)  **Stijn Helsloot**
 
 
 
@@ -32,14 +32,12 @@ title: nanoEPics team members
 
 ### Former members
 
-
-* **Dr. Aquiles Carattino** post-doc, (next move: spin-off company Utoptics) [homepage](https://www.aquicarattino.com/)
-
-* **Qianjing Tang** master student, (next move: research assistant)
-
+* **Allard Veenstra** bachelor student
+* **Dr. Aquiles Carattino** post-doc, (next move: spin-off company Utopics) [homepage](https://www.aquicarattino.com/)
+* **Qianjing Tang** master student, (next move: PhD candidate at Faculty of Geosciences)
 * **Lorenzo Sierra Perez** bachelor student, (next move: Master student at Utrecht University)
 * **Milo Collaris** bachelor student, (next move: Master student at Utrecht University)
-* **Dr. Siddhart Ghosh**, Postdoc (next move: postdoc at the [Single Molecule group](http://www.single-molecule.nl) in Leiden)
+* **Dr. Siddhart Ghosh**, Postdoc (next move: postdoc at the [Single Molecule group](http://www.single-molecule.nl) in Leiden, next: Cambridge University)
 * **Zeyu Kuang**, visiting bachelor student, (next move: graduate student at Yale University)
 * **Tom Niessen**, bachelor student, (next move: Master student at Utrecht University)
 * **Suzan Marsman** bachelor student, (next move: Master student at Utrecht University)
