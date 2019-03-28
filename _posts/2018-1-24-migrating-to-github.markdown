@@ -1,6 +1,6 @@
 ---
 title:  "Migrating to GitHub pages"
-date:   2018-08-24 13:41:44
+date:   2018-01-24 13:41:44
 categories: [updates]
 tags: [open-source] [communication]
 ---
