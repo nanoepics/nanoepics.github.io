@@ -19,9 +19,10 @@ title: nanoEPics team members
 
 ![Kevin Namink](./images/kevin_th.png)  **Kevin Namink**
 
+![Stijn Helsloot](./images/stijn_th.jpeg)  **Stijn Helsloot**
+
 ![Wouter Wassing](./images/profile_th.png)  **Wouter Wassing**
 
-![Stijn Helsloot](./images/profile_th.png)  **Stijn Helsloot**
 
 
 
