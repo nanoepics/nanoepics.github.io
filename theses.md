@@ -15,9 +15,15 @@ If you are interested in choosing a project with us, please contact Sanli (S.Fae
 
 ### Accomplished by the nanoEPics team
 #### Master project
+
+* _Measuring Size and Electrophoretic Mobility of Sub 100 nm Particles by Single Particle Tracking_, __Peter Speets__
+
 * _Developing fluorescence microscopy setup to study microscopic solute transport in saturated and unsaturated porous media using microfluidics_, __Qianjing Tang__ (joint-project with the Faculty of Geosciences) [UU Repo](https://dspace.library.uu.nl/handle/1874/368063)
 
 #### Bachelor projects
+
+* _Finding the Viscosity of Liquid Droplets using the Acoustic Levitator_,__Stijn Helsloot__
+* _Measurements on electrical properties of water while acoustically levitated_, __Allard Veenstra__
 * _Crystallizing ultrasonically levitated colloidal droplets_, Milo Collaris [UU Repo](https://dspace.library.uu.nl/handle/1874/371086)
 * _Relation between surface charge and the flow rate within microfluidic channels_, __Lorenzo Sierra Perez__ [UU Repo](https://dspace.library.uu.nl/handle/1874/366501)
 * _Measuring Absolute Scattering Cross-sections of nanoparticles and single molecules_, __Zeyu Kuang__  _(winner best presentation 2017)_ [UU Repo](https://dspace.library.uu.nl/handle/1874/370909)
