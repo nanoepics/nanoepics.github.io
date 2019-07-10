@@ -7,7 +7,7 @@ title: Research Topics
 ### Potentiodynamics Scattering Microscopy
 The electric double layer (EDL) formed around the charged surface of nanostructures inside a liquid influences their optical scattering strength. In our group we investigate how this minute but measurable influence can be used to visualize chemical reactions and ion transport. More information about this method will be made available soon!
 
-### Monitoring Electrophoretics Mobility in Optical tweezers
+### Electrophoretic Mobility Dynamics
 Most surfaces, nanoparticles, and biomolecules become electrically charged in contact with water. This charge will be screened by the ions solvated in water. The ions form the so-called electric double layer (EDL), which is often only a few nanometers thick. The interactions of the particle with its environment, however, will greatly depend on this cloud of ions. The processes inside the EDL determine the reactivity and assembly of these charged objects and. Understanding the EDL properties is important for a variety of biological and industrial processes, from how the kidneys function and neurons communicate to how an e-reader works.
 
 When an external electric field is applied, the charged nanoparticle will be pulled in one direction and the shell of ions around it will be pushed in the opposite direction. The particle thus will start to drift in the liquid, due to the viscosity and interaction with the cloud of ions. It takes some time for the particle to reach a constant velocity and this time depends on how quickly the ions can diffuse around the nanoparticle and the double layer.

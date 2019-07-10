@@ -3,37 +3,34 @@ layout: page
 title: nanoEPics team members
 ---
 
-
 ### PhD-students
 
+![Bohdan](./images/bohdan_th.jpg)
+**Bohdan Yeroshenko**
 
-
-![Bohdan](./images/bohdan_th.jpg)  **Bohdan Yeroshenko**
-
-
-![Zhu Zhang](./images/zhu_th.png)  **Zhu Zhang**
+![Zhu Zhang](./images/zhu_th.png)
+**Zhu Zhang**
 
 
 ### Student members
-![Peter Speets](./images/peter_th.png)  **Peter Speets**
+![Peter Speets](./images/peter_th.png)
+**Peter Speets**
 
-![Kevin Namink](./images/kevin_th.png)  **Kevin Namink**
-
-![Stijn Helsloot](./images/stijn_th.jpeg)  **Stijn Helsloot**
-
-![Wouter Wassing](./images/profile_th.png)  **Wouter Wassing**
-
-
+![Kevin Namink](./images/kevin_th.png)
+**Kevin Namink**
 
 
 ### PI
-![Sanli](./images/sanli_th.png)  **Sanli Faez**
+![Sanli](./images/sanli_th.png)
+**Sanli Faez**
 [bio](./pages/sanli_bio.md)
 
 
 ### Former members
 
-* **Allard Veenstra** bachelor student
+* **Wouter Wassing** bachelor student
+* **Stijn Helsloot** bachelor student
+* **Allard Veenstra** bachelor student (next move: master student at TU Eindhoven)
 * **Dr. Aquiles Carattino** post-doc, (next move: spin-off company Utopics) [homepage](https://www.aquicarattino.com/)
 * **Qianjing Tang** master student, (next move: PhD candidate at Faculty of Geosciences)
 * **Lorenzo Sierra Perez** bachelor student, (next move: Master student at Utrecht University)

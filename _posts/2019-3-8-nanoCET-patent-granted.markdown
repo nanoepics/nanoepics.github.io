@@ -10,5 +10,4 @@ Our patent application for the Nanocapillary Electrokinetic Tracking method has 
 You can read more about the nanoCET platform on our [research page](https://nanoepics.github.io/research/).
 
 
-![nanoCET patent](./images/USpatent_nanoCET.png)
-s
+![nanoCET patent](https://nanoepics.github.io/images/USpatent_nanoCET.png)

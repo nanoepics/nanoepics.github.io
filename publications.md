@@ -6,7 +6,7 @@ title: Publications
 ### Submitted
 
 * PyNTA: An Open Source Software Application for Live Particle Tracking,
-Aquiles Carattino, Allard Mosk, Sanli Faez, _Preprints_ 2019, 2019060251, (doi: 10.20944/preprints201906.0251.v1 [preprint](https://www.preprints.org/manuscript/201906.0251/v1), submitted to Instruments.
+Aquiles Carattino, Allard Mosk, Sanli Faez, _Preprints_ 2019, 2019060251, (doi: 10.20944/preprints201906.0251.v1 [preprint](https://www.preprints.org/manuscript/201906.0251/v1), submitted to PLOS ONE.
 
 ### Peer-reviewed
 
