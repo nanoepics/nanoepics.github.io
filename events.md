@@ -6,8 +6,8 @@ title: Events
 ### Upcoming events
 
 
-* __11 October 2019, Amsterdam__:
-Esther Alarcón Lladó, Rene van Roij, and Sanli are organizing the Ionics&IontronicsNL symposium in Amsterdam. This event will bring together several groups working on related topics in the Netherlands. [Prof. Susan Perkin](http://research.chem.ox.ac.uk/susan-perkin.aspx) (Oxford University) will present the keynote lecture.
+* __11 October 2019, Utrecht__:
+Esther Alarcón Lladó, René van Roij, and Sanli are organising the Ionics&IontronicsNL symposium in Utrecht. This event will bring together several groups working on related topics in the Netherlands. [Prof. Susan Perkin](http://research.chem.ox.ac.uk/susan-perkin.aspx) (Oxford University) will present the keynote lecture.
 
 * __21-22 January 2020, Veldhoven__: The complete nanoEPics team will be present again at the Physics@Veldhonven conference. The focus session "Iontronics: from nanoscale transport to industrial processes" is organized jointly by Rene van Roij (Institute for Theoretical Physics at UU) and Sanli. The invited speakers to this focus session are Lydéric Bocquet (ENS Paris), Esther Alarcón Lladó (AMOLF), Michel Orrit (Leiden), and Serge Lemay (Twente).
 
