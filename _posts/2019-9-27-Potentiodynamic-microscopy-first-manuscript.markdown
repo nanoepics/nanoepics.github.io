@@ -1,5 +1,5 @@
 ---
-title:  "Bohdan Presents in EOS Optofluidics Conference"
+title:  "Our first report on recording the nanoscale optical contrast of the electric double layer"
 date:   2019-09-27 09:00:00
 categories: [updates]
 tags: [research, manuscripts]

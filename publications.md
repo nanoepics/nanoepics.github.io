@@ -37,4 +37,4 @@ Sanli Faez, Sense Jan van der Molen, Michel Orrit, _Phys. Rev. B_ __90__ 205405 
 ### Other publications
 The nanoEPics theses and student projects are listed under [theses](./theses.md).
 
-You can find a full list of Sanli's publications on [his homepage](http://sanlifaez.github.io/) or on [google scholar](link).
+You can find a full list of Sanli's publications on [his homepage](http://sanlifaez.github.io/) or on [google scholar](https://scholar.google.com/citations?user=X0lp5rQAAAAJ&hl=en).
