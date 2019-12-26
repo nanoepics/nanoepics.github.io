@@ -1,6 +1,6 @@
 ---
 title:  "Bohdan and Zhu participated in the ECCM workshop"
-date:   2019-09-27 09:00:00
+date:   2019-11-29 18:00:00
 categories: [updates]
 tags: [research, manuscripts]
 ---
