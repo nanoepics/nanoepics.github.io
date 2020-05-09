@@ -5,13 +5,12 @@ title: Publications
 
 ### Submitted
 
-* Optical Imaging of the Electric Double Layer Around Nanostructures,
-Kevin Namink, Xuanhui Meng, Marc T. M. Koper, Philipp Kukura, Sanli Faez, [preprint](https://arxiv.org/abs/1909.12801)
-
-* PyNTA: An Open Source Software Application for Live Particle Tracking,
-Aquiles Carattino, Allard Mosk, Sanli Faez, _Preprints_ 2019, 2019060251, (doi: 10.20944/preprints201906.0251.v1 [preprint](https://www.preprints.org/manuscript/201906.0251/v1), submitted to PLOS ONE.
 
 ### Peer-reviewed
+
+* Electric-Double-Layer-Modulation Microscopy, 
+Kevin Namink, Xuanhui Meng, Marc T. M. Koper, Philipp Kukura, Sanli Faez,
+_Phys. Rev. Applied_ __13__ 044065 \(2020\) [Abstract](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.044065) [preprint](https://arxiv.org/abs/1909.12801)
 
 * Interfacing superconducting qubits and single optical photons using molecules in waveguides,
 Sumanta Das, Vincent E. Elfving, Sanli Faez, Anders S. Sørensen, _Phys. Rev. Lett._ __118__ 140501 \(2017\) [Abstract](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.140501) [preprint](https://arxiv.org/abs/1607.06271)
@@ -38,3 +37,8 @@ Sanli Faez, Sense Jan van der Molen, Michel Orrit, _Phys. Rev. B_ __90__ 205405 
 The nanoEPics theses and student projects are listed under [theses](./theses.md).
 
 You can find a full list of Sanli's publications on [his homepage](http://sanlifaez.github.io/) or on [google scholar](https://scholar.google.com/citations?user=X0lp5rQAAAAJ&hl=en).
+
+### Preprints
+
+* PyNTA: An Open Source Software Application for Live Particle Tracking,
+Aquiles Carattino, Allard Mosk, Sanli Faez, _Preprints_ 2019, 2019060251, (doi: 10.20944/preprints201906.0251.v1 [preprint](https://www.preprints.org/manuscript/201906.0251/v1)
