@@ -21,10 +21,14 @@ If you are interested in choosing a project with us, please contact Sanli (S.Fae
 * _Developing fluorescence microscopy setup to study microscopic solute transport in saturated and unsaturated porous media using microfluidics_, __Qianjing Tang__ (joint-project with the Faculty of Geosciences) [UU Repo](https://dspace.library.uu.nl/handle/1874/368063)
 
 #### Bachelor projects
-
-* _Finding the Viscosity of Liquid Droplets using the Acoustic Levitator_,__Stijn Helsloot__
+* _Optimizing nano-oscillators_, __Elise Alkemade__ [UU Repo](https://dspace.library.uu.nl/handle/1874/403032)
+* _Redox Flow Battery: An Open-Source and Accessible Energy Storage Solution_, __Catherine Doherty__
+* _Clogging of Colloidal Particles in a Microchannel using an Electro-Osmotic Micropump_, __Thijs KArman__ [UU Repo](https://dspace.library.uu.nl/handle/1874/403029)
+* _Numerical modelling of an electro-actuated nanospring_, __Erik Mollers__
+* _Nanosprings and the Electric Double Layer_, __Janice van Dam__ [UU Repo](https://dspace.library.uu.nl/handle/1874/397673)
+* _Finding the Viscosity of Liquid Droplets using the Acoustic Levitator_, __Stijn Helsloot__
 * _Measurements on electrical properties of water while acoustically levitated_, __Allard Veenstra__
-* _Crystallizing ultrasonically levitated colloidal droplets_, Milo Collaris [UU Repo](https://dspace.library.uu.nl/handle/1874/371086)
+* _Crystallizing ultrasonically levitated colloidal droplets_, __Milo Collaris__ [UU Repo](https://dspace.library.uu.nl/handle/1874/371086)
 * _Relation between surface charge and the flow rate within microfluidic channels_, __Lorenzo Sierra Perez__ [UU Repo](https://dspace.library.uu.nl/handle/1874/366501)
 * _Measuring Absolute Scattering Cross-sections of nanoparticles and single molecules_, __Zeyu Kuang__  _(winner best presentation 2017)_ [UU Repo](https://dspace.library.uu.nl/handle/1874/370909)
 * _Feedback control: theoretical and experimental research using a keysight DAQ_, __Tom Niessen__ [UU Repo](https://dspace.library.uu.nl/handle/1874/353034)

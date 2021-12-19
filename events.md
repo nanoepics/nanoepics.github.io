@@ -4,6 +4,20 @@ title: Events
 ---
 
 ### Upcoming events
+
+* __21-22 January 2021, Veldhoven__
+
+* __21-23 June 2023, Edinburgh__: _Iontronics: from fundamentals to ion-controlled devices Faraday Discussion_,
+ 
+
+### Past events
+* __29 November-1 December 2021, Faraday Discussion (online)__: _Next Generation Nanoelectrochemistry_, Zhu Zhang presented our result on iontornic microscopy of a tungsten microelectrode in this [Faraday Discussions](https://www.rsc.org/events/detail/43016/next-generation-nanoelectrochemistry-faraday-discussion).
+
+* __1-2 July 2021, Utrecht (online)__: _Second IontronicsNL symposium_
+In this event, co-organized by Sanli Faez, we covered the basic science required for understanding the wide range of iontronic processes in redox-flow batteries. In collaboration with the UK-RFB network, we also present the latest research results on this rapidly expanding and promising solution for sustainable electrochemical energy storage.
+
+The program consisted of didactic invited lectures and research presentations from the community focused mostly on recent innovative results for Redox-Flow Batteries. More that 90 people attended the openning keynote by Maarten Voors.
+
 * __15 May 2020, Utrecht (online)__: _2nd Utrecht Degrowth Symposium: From circular economy to circular society_,
 Together with my colleagues at the [Copernicus Institute of Sustainable Development](https://www.uu.nl/en/research/copernicus-institute-of-sustainable-development) and the [Dutch degrowth platform](http://www.ontgroei.nl/) Sanli is organizing this symposium to study and discuss degrowth and circular economy in a multi-disciplinary way. This symposium aims to connect stakeholders from academic and non-academic institutions to discuss holistic societal transformations needed to address the socio-ecological crisis of the 21st century.
 
@@ -15,7 +29,6 @@ Nano-EPics will be present with a poster about our recently published method: El
 * __26 June 2020, The Hague__:  _Netherlands conference on Electrochemical Conversion & Materials (ECCM)_,
 Electrochemical conversion is a promising option for long-term storage as this technology is easy scalable to the amount of energy. During the conference the state-of-the-art in science and technology will be shared by international key notes from academia and industry. Dutch scientist and industry representatives will contribute to an appealing parallel programme related to the theme of the conference. During the conference national R&D initiatives related to the ECCM theme will be announced. see [call for abstracts](https://www.co2neutraalin2050.nl/netherlands-conference-on-electrochemical-conversion-26-june-2020/).
 
-### Past events
 
 * __21-22 January 2020, Veldhoven__: The complete nanoEPics team will be present again at the Physics@Veldhonven conference. The focus session "Iontronics: from nanoscale transport to industrial processes" is organized jointly by Rene van Roij (Institute for Theoretical Physics at UU) and Sanli. The invited speakers to this focus session are Lyderic Bocquet (ENS Paris), Esther Alarcon Llado (AMOLF), Michel Orrit (Leiden), and Serge Lemay (Twente).
 
