@@ -37,6 +37,7 @@ title: nanoEPics team members
 
 ### Former team-members
 
+* **Catherine Doherty** bachelor student (next move: master student at TU Eindhoven)
 * **Thijs Karman** bachelor student (next move: Data Specialist at Pension Funds PGB)
 * **Kevin Namink** Bachelor and Master projects (next move: Software developer at Scientific Volume Imaging)
 * **Elise Alkemade** bachelor student (next move: master student, Philosophy of Science, Utrecht)

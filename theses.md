@@ -14,7 +14,8 @@ Some examples of currently possible projects are:
 If you are interested in choosing a project with us, please contact Sanli (S.Faez {at} UU {dot} NL).
 
 ### Accomplished by the nanoEPics team
-#### Master project
+#### Master projects
+* _Potentiodynamic Optical Contrast_, __Kevin Namink__
 
 * _Measuring Size and Electrophoretic Mobility of Sub 100 nm Particles by Single Particle Tracking_, __Peter Speets__
 
@@ -23,7 +24,7 @@ If you are interested in choosing a project with us, please contact Sanli (S.Fae
 #### Bachelor projects
 * _Optimizing nano-oscillators_, __Elise Alkemade__ [UU Repo](https://dspace.library.uu.nl/handle/1874/403032)
 * _Redox Flow Battery: An Open-Source and Accessible Energy Storage Solution_, __Catherine Doherty__
-* _Clogging of Colloidal Particles in a Microchannel using an Electro-Osmotic Micropump_, __Thijs KArman__ [UU Repo](https://dspace.library.uu.nl/handle/1874/403029)
+* _Clogging of Colloidal Particles in a Microchannel using an Electro-Osmotic Micropump_, __Thijs Karman__ [UU Repo](https://dspace.library.uu.nl/handle/1874/403029)
 * _Numerical modelling of an electro-actuated nanospring_, __Erik Mollers__
 * _Nanosprings and the Electric Double Layer_, __Janice van Dam__ [UU Repo](https://dspace.library.uu.nl/handle/1874/397673)
 * _Finding the Viscosity of Liquid Droplets using the Acoustic Levitator_, __Stijn Helsloot__

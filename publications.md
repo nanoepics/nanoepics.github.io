@@ -19,7 +19,7 @@ Xuanhui Meng, Philipp Kukura, and Sanli Faez, _Nanoscale_ __13__12687-12696 \(20
 
 * Regulating Aggregation of Colloidal Particles in an Electro-Osmotic Micropump, Zhu Zhang, Joost de Graaf, Sanli Faez, _Soft Matter_ __16__ 10707-10715 \(2020\). [Abstract](https://doi.org/10.1039/D0SM01084G) [preprint](https://arxiv.org/abs/2104.00040)
 
- Thermo-optical dynamics of a nonlinear GaInP photonic crystal nanocavity depend on the optical mode profile, Karindra Perrier, Sebastiaan Greveling, Hilbrand Wouters, Said R. K. Rodriguez, Gaëlle Lehoucq, Sylvain Combrié, Alfredo de Rossi, Sanli Faez, and Allard P. Mosk, _OSA Continuum_ __3__ 1879-1890 \(2020\). [Abstract](https://doi.org/10.1364/OSAC.393842) [preprint](https://arxiv.org/abs/2006.13665)
+* Thermo-optical dynamics of a nonlinear GaInP photonic crystal nanocavity depend on the optical mode profile, Karindra Perrier, Sebastiaan Greveling, Hilbrand Wouters, Said R. K. Rodriguez, Gaëlle Lehoucq, Sylvain Combrié, Alfredo de Rossi, Sanli Faez, and Allard P. Mosk, _OSA Continuum_ __3__ 1879-1890 \(2020\). [Abstract](https://doi.org/10.1364/OSAC.393842) [preprint](https://arxiv.org/abs/2006.13665)
 
 * Electric-Double-Layer-Modulation Microscopy, 
 Kevin Namink, Xuanhui Meng, Marc T. M. Koper, Philipp Kukura, Sanli Faez,
