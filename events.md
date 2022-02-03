@@ -11,9 +11,13 @@ title: Events
 
 ### Past events
 
-* __21-22 January 2021__: _,Annual Dutch Physics Conference_, Anna Peters and Zhu Zhang presented their latest results in two posters. In Anna's poster, the path towards using single nano-emulsions as nanoscopic oscillators for detection of charges and adsorbants in a scattering microscope was explained. Zhu's poster covered our latest results on measuring electrochemical reactions with iontronics microscopy.
+* __21-22 January 2022__: _,Annual Dutch Physics Conference_, Anna Peters and Zhu Zhang presented their latest results in two posters. In Anna's poster, the path towards using single nano-emulsions as nanoscopic oscillators for detection of charges and adsorbants in a scattering microscope was explained. Zhu's poster covered our latest results on measuring electrochemical reactions with iontronics microscopy.
 
 * __29 November-1 December 2021, Faraday Discussion (online)__: _Next Generation Nanoelectrochemistry_, Zhu Zhang presented our result on iontornic microscopy of a tungsten microelectrode in this [Faraday Discussions](https://www.rsc.org/events/detail/43016/next-generation-nanoelectrochemistry-faraday-discussion).
+
+* __27 October 2021, Utrecht__: _OSCU Open Science Symposium_, Sanli presented the FAIR-Battery project at [this year's symposium](https://openscience-utrecht.com/events/oscu-open-science-symposium-faculty-of-science/). It was a fortunate coincidence that on the same day, winners of the NWO Open Science fund were announced, and the FAIR-Battery KnowledgeBase is one of the [lucky recievers of this first round grants](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2021-awarded-grants). 
+
+* __11-14 October 2021, Utrecht__: _Pathways to sustainability conference_, This year's conference had several satellite events. Sanli presented a talk on the importance of open hardware for rapid transition to sustainable practices in the [Energy in Transition](https://www.uu.nl/sites/default/files/There%20is%20money%20in%20climate%20change.pdf) event. A highlight of the event was [KlimaatHelpdesk](httpw://www.klimaathelpdesk.org), to which Sanli is one of the founders, winning the Sustainability award.
 
 * __1-2 July 2021, Utrecht (online)__: _Second IontronicsNL symposium_
 In this event, co-organized by Sanli Faez, we covered the basic science required for understanding the wide range of iontronic processes in redox-flow batteries. In collaboration with the UK-RFB network, we also present the latest research results on this rapidly expanding and promising solution for sustainable electrochemical energy storage.
