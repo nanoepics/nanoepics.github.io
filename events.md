@@ -5,12 +5,14 @@ title: Events
 
 ### Upcoming events
 
-* __21-22 January 2021, Veldhoven__
-
+* __4 Febrary 2022__: [Recognition and rewards Festival](https://live.letsgetdigital.com/2333-recognitionrewards/virtualevent/?tmp_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMjMzM1g1NiIsInVzZXJfY29kZSI6IjNINFUzUUJQIiwiZXhwIjoxNjc1MzM0NzI5LCJpc3MiOiJzY2FsZXNlcnZlci0xMTYiLCJpYXQiOjE2NDM3OTg3MjksInNraXBfbG9naW4iOmZhbHNlLCJsb2dfZHJ5cnVuIjpmYWxzZX0.xVPARmJ1BjtDThgJO3g0gTew2oV4iM3uzQAZhdzLcfU.): Sanli Faez sits on a panel discussion hosted by NWO Open Science coordinators to discuss rewarding team sciene.
 * __21-23 June 2023, Edinburgh__: _Iontronics: from fundamentals to ion-controlled devices Faraday Discussion_,
  
 
 ### Past events
+
+* __21-22 January 2021__: _,Annual Dutch Physics Conference_, Anna Peters and Zhu Zhang presented their latest results in two posters. In Anna's poster, the path towards using single nano-emulsions as nanoscopic oscillators for detection of charges and adsorbants in a scattering microscope was explained. Zhu's poster covered our latest results on measuring electrochemical reactions with iontronics microscopy.
+
 * __29 November-1 December 2021, Faraday Discussion (online)__: _Next Generation Nanoelectrochemistry_, Zhu Zhang presented our result on iontornic microscopy of a tungsten microelectrode in this [Faraday Discussions](https://www.rsc.org/events/detail/43016/next-generation-nanoelectrochemistry-faraday-discussion).
 
 * __1-2 July 2021, Utrecht (online)__: _Second IontronicsNL symposium_
