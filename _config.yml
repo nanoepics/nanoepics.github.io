@@ -1,6 +1,6 @@
 # Site settings
 title: nanoEPics
-description: 'Pushing Electrons, Detecting Photons'
+description: 'Scientific Impact with Open-Source Hardware'
 url: 'http://nanoepics.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -8,7 +8,6 @@ baseurl: ''
 author:
   name: 'Sanli Faez'
   email: s.faez@uu.nl
-  twitter_username: Sanli
   github_username:  nanoepics
   linkedin_username:  sanlifaez
 
